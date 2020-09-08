@@ -4,4 +4,5 @@ public class World {
     int b=20;
     int d=40;
     int q=1;
+    String name="tom";
 }
