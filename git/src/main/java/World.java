@@ -4,4 +4,8 @@ public class World {
     int d=40;
     int q=1;
     String name="tom";
+
+    public static void main(String[] args) {
+
+    }
 }
